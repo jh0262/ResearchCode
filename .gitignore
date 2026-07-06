@@ -1,0 +1,5 @@
+node_modules/
+dist/
+release/职业标准能力图谱生成器-便携版/
+release/occupation-graph-portable/
+*.log
